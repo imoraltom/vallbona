@@ -12,10 +12,17 @@ Abans de crear el nostre primer repositori, haurem de configurar el nostre compt
 
 Crea un nou repositori a GitHub amb el nom «vallbona». Inclou una captura de pantalla on aparegui el nou repositori.
 
-![Creamos un nuevo repositorio llamado 'vallbona'](./img/Ejercicio_2.png)
+![Creamos un nuevo repositorio llamado 'vallbona'](./img/Ejercicio_2.1.png)
 
 **EJERCICIO 03**
 
 Crea un repositori «vallbona» en el teu ordinador. Crea una branca «main» amb un fitxer «readme.md» dins. Fes-ne commit i puja el repositori a GitHub. Indica les comandes que has utilitzat.
 
-![](./img/)
+![Tenemos la rama creada y el commit hecho con el readme.md](./img/Ejercicio_3.1.png)
+
+**PREGUNTAR AL JORDI SOBRE SUBIR EL REPOSITORIO A GITHUB**
+
+**EJERCICIO 04**
+
+
+![]()
